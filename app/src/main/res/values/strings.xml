@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android-mvp-note</string>
+    <string name="msg_add_note">Add Note</string>
+    <string name="msg_note_title">title</string>
+    <string name="msg_note_content">content</string>
+    <string name="msg_save">Save</string>
+    <string name="msg_validation_message">Please fill inputs.</string>
+    <string name="msg_processing_error">Something went wrong on saving note</string>
+    <string name="msg_empty_note_list">You don\'t have any note</string>
+    <string name="msg_unknown_error">Something went wrong!</string>
+</resources>
